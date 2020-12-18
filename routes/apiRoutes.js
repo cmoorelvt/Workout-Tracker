@@ -1,4 +1,4 @@
-const Workout = require("../models /workout")
+const Workout = require("../models/workout")
 
 module.exports = function(app){ 
     app.get("/api/workouts",function(req,res){  
@@ -10,7 +10,6 @@ module.exports = function(app){
             res.json(err)
         })
     });
-
 
     app.post("/api/workouts",function (req,res){    
         Workout.create({})
@@ -29,7 +28,6 @@ module.exports = function(app){
             res.json(err)
         })
     });
-
 
     app.post("/api/workouts/range",function (req,res){    
         Workout.create({})
