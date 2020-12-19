@@ -1,8 +1,8 @@
-# GitMovn: Fitness Tracker
+# :weight_lifting_woman: GitMovn: Fitness Tracker
 
 Live Link: https://gitmovn-tracker.herokuapp.com/
 
-## Description
+## :cartwheeling: Description
 ```
 As a user, I want to be able to view create and track daily workouts. 
 I want to be able to log multiple exercises in a workout on a given day. 
@@ -11,13 +11,13 @@ If the exercise is a cardio exercise, I should be able to track my distance trav
 ```
 ---
 
-## Technologies Used
+## :bicyclist: Technologies Used
 - HTML/CSS
 - JS
 - Heroku
 - MongoDB Atlas
 
-## Screenshots
+## :swimmer: Screenshots
 ![addWorkout](img/add-workout.PNG)
 ![savedWorkout](img/Saved-Workout.PNG)
 ![Dashboard](img/Dashboard.PNG)
