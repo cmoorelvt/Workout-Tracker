@@ -16,5 +16,5 @@ As a user, I want to be able to view create and track daily workouts. I want to 
 
 ## Screenshots
 ![addWorkout](img/add-workout.PNG)
-![savedWorkout](img/Saved-Workout.png)
+![savedWorkout](img/Saved-Workout.PNG)
 ![Dashboard](img/Dashboard.PNG)
